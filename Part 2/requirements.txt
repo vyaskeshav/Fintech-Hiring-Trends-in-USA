@@ -1,0 +1,7 @@
+pandas
+nltk
+plotly
+squarify
+matplotlib
+wordcloud
+adjustText
